@@ -3,7 +3,7 @@ var rule = {
     host:'http://api.hclyz.com:81',
     homeUrl:'/mf/json.txt',
     url:'/mf/fyclass',
-    class_name:'all',
+    class_name:'全部直播',
     class_url:'json.txt',
     headers:{
         'User-Agent':'MOBILE_UA',
