@@ -15,19 +15,14 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/golanse/tvboxx/main/l
 #频道四
 https://yang-1989.eu.org/m3u/Adult
 #频道五
-https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/golanse/gao/master/livex.m3u
 #频道六
-https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv/main/jav2.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/golanse/gao/master/listx.txt
 #频道七
-https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv/main/jav3.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/golanse/gao/master/listx.m3u
 #频道八
-https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv/main/javs.m3u
-#频道九
-https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv/main/porno.m3u
-#频道十
-https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv/main/vods.m3u
-#频道十一
-https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv/main/%E6%95%B4%E7%90%86/adult.txt
+https://qu.ax/PEHy.txt
+
 
 
 
